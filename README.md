@@ -2,7 +2,7 @@
 Etnetera mastermind puzzle solution
 
 ## Algorithm
-Based on swapping pairs. We get the number of black pins before and after swap. If there is a change in the number of pins, we investigate further and find out which numbers belong to which positions.
+Based on pair swapping. We get the number of black pins before and after swap. If there is a change in the number of pins, we investigate further and find out which numbers belong to which positions.
 
 ### Details
 At first we find, how many of which numbers are there (since they can repeat).
